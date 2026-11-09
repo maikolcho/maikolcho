@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=640&lines=Nelson+Villalba+·+Desarrollador+Android+e+iOS;Estudiante+de+Ethical+Hacking+y+Ciberseguridad" alt="Presentación" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=%24+whoami;Nelson+Villalba+%E2%80%94+Android+%26+iOS+Developer;Ethical+Hacking+%26+Cybersecurity+Student" alt="Nelson Villalba" />
 
 Córdoba, España · Disponible para prácticas
 
-[Portfolio](https://nelson-villalba.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nelson-villalba-vergara) · [Email](mailto:nelson_ariel@hotmail.es)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nelson--villalba.vercel.app-22C55E?style=for-the-badge&logo=astro&logoColor=white)](https://nelson-villalba.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Villalba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-villalba-vergara) [![Email](https://img.shields.io/badge/Email-Contacto-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelson_ariel@hotmail.es)
 
 </div>
 
@@ -25,8 +25,12 @@ Desarrollador de aplicaciones móviles nativas: **Android** con Java y Kotlin, e
 
 ## Tecnologías
 
+<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,androidstudio,xcode,firebase,nodejs,js,python,mysql,git,github,linux,kali&perline=8" alt="Stack" /></p>
+
 **Móvil:** Kotlin, Java, Swift, SwiftUI, Flutter, Dart
+
 **Backend y datos:** Node.js, Python, MySQL, n8n
+
 **Seguridad:** Kali Linux, Nmap, Burp Suite, Wireshark, Metasploit, OWASP Top 10
 
 <div align="center">
