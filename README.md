@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=%24+whoami;Nelson+Villalba+%E2%80%94+Android+%26+iOS+Developer;Ethical+Hacking+%26+Cybersecurity+Student" alt="Nelson Villalba" />
+<img src="./matrix.svg" alt="Nelson Villalba" width="100%" />
 
 Córdoba, España · Disponible para prácticas
 
@@ -25,7 +25,7 @@ Desarrollador de aplicaciones móviles nativas: **Android** con Java y Kotlin, e
 
 ## Tecnologías
 
-<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,androidstudio,xcode,firebase,nodejs,js,python,mysql,git,github,linux,kali&perline=8" alt="Stack" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,androidstudio,firebase,nodejs,js,python,mysql,git,github,linux,kali&perline=8" alt="Stack" /></p>
 
 **Móvil:** Kotlin, Java, Swift, SwiftUI, Flutter, Dart
 
